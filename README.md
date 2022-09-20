@@ -9,6 +9,6 @@ This is for the AI621 course Graduate school of AI @KAIST.
 - Below is the brief result of the homework image processing. 
 <img src = 'https://github.com/daheekwon/Image-generation-and-manipulation/issues/1#issue-137879209' width="200" height="400">
 
-
+ 
 ## Homework 2
 Not yet
