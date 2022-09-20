@@ -16,7 +16,7 @@ This is for the AI621 course Graduate school of AI @KAIST.
 
 -------------------------
 ------------------------
-Dahee Kwon 
-Ph.D student
-Graduate school of AI @ KAIST
+Dahee Kwon \
+Ph.D student \
+Graduate school of AI @ KAIST \
 (20225421)
