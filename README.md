@@ -1,8 +1,6 @@
 # Image-generation-and-manipulation
 This is for the AI621 course Graduate school of AI @KAIST. 
 
------------------------------
------------------------------
 
 
 ## Homework 1
@@ -14,8 +12,8 @@ This is for the AI621 course Graduate school of AI @KAIST.
 
 
 
--------------------------
-------------------------
+-------------------------------------------------
+## Contact
 Dahee Kwon \
 Ph.D student \
 Graduate school of AI @ KAIST \
