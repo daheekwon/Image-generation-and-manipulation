@@ -20,4 +20,4 @@ This is for the AI621 course Graduate school of AI @KAIST.
 ## Contact
 Dahee Kwon \
 Ph.D student(20225421) \
-Graduate school of AI @ KAIST \
+Graduate school of AI @ KAIST 
