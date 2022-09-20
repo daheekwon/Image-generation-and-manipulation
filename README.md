@@ -11,3 +11,12 @@ This is for the AI621 course Graduate school of AI @KAIST.
 - Below is the brief result of the homework image processing. 
   - ![hw1](assets/hw1_results.png)
 
+
+
+
+-------------------------
+------------------------
+Dahee Kwon 
+Ph.D student
+Graduate school of AI @ KAIST
+(20225421)
