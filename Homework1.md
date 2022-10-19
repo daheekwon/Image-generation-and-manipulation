@@ -1,3 +1,5 @@
+![hw1](assets/hw1_results.png)
+
 - Corresponding code and description is in [[HW1_code]](https://github.com/daheekwon/Image-generation-and-manipulation/blob/1d4bd2dc968a1fe79c54da30ecda763eaf9fd2f9/20225421_HW1.ipynb), [[HW1_html]](https://daheekwon.github.io/Image-generation-and-manipulation/20225421_HW1.html)
 - Above is the brief result of the homework image processing. 
   - For bayer pattern, I use "RGGB" pattern. It is because "RGGB" pattern best represents the overall tone and the contrast of colors. 
