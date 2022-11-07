@@ -9,6 +9,9 @@ This is for the AI621 course Graduate school of AI @KAIST.
 ## Homework 2 
 **Homework 2** is about Eulerian Video magnification. [HW2](Homework2.md)
 
+## Homework 3
+**Homework 3** is about Poisson Blending. [HW3](Homework3.md)
+
 -------------------------------------------------
 ## Contact
 Dahee Kwon \
