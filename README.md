@@ -15,6 +15,9 @@ This is for the AI621 course Graduate school of AI @KAIST.
 ## Homework 4
 **Homework 4** is about HDR imaging and Tonemapping. [HW4](Homework4.md)
 
+## Homework 5
+**Homework 5** is about lightfield and focal stack. [HW5](Homework5.md)
+
 -------------------------------------------------
 ## Contact
 Dahee Kwon \
