@@ -1,5 +1,5 @@
 
 
-Corresponding code and description is in [HW4_HDR], [HW4_custom]
+[[HW5 chessboard]](https://daheekwon.github.io/Image-generation-and-manipulation/AI621_HW5_20225421.html)
 
-The short video presentation is in the link: Video
+[[HW5_custom]](https://daheekwon.github.io/Image-generation-and-manipulation/AI621_HW5_20225421_custom.html)
